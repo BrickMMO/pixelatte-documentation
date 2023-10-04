@@ -1,6 +1,6 @@
 # About Documentation
 
-This website will be used to track contributions, versions, and documentation for the [BrickMMO Colours](https://pixelatte.brickmmo.com/) project.
+This website will be used to track contributions, versions, and documentation for the [BrickMMO Pixelatte](https://pixelatte.brickmmo.com/) project.
 
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
