@@ -1,4 +1,4 @@
-# About Documentation
+# About Pixelatte
 
 This website will be used to track contributions, versions, and documentation for the [BrickMMO Pixelatte](https://pixelatte.brickmmo.com/) project.
 
