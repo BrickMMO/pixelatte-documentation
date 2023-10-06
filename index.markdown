@@ -1,19 +1,17 @@
-# template-about-markdown
+# Pixelatte-About
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-This is a template for `system-about` websites.
+Pixelatte is an application that converts a provided image to a set of instructions to recreate the image using LEGO^TM^ bricks.
 
-![BrickMMO](images/brickmmo.png)
+![BrickMMO](images/pixelatte-landing.jpg)
 
-This part of the `index.markdown` page should include a brief description of this system and links to the current frontend and backend.
+The end result will be instructions to create something similar to the LEGO^TM^ World Map (https://www.lego.com/en-us/product/world-map-31203)
 
-- [System Frontend](https://brickmmo.com)
-- [System Backend](https://brickmmo.com)
+> <small>LEGO (n.d.). LEGO World Map. Retrieved October 6, 2023, from [https://www.lego.com/en-us/product/world-map-31203](https://www.lego.com/en-us/product/world-map-31203)</small>
 
-## [Version 1 - Initial Production](v1)
 
-## [Version 2 - Merge with Central Console](v2)
+## [Version 1 - Initial Production](v1.markdown)
 
 ---
 
