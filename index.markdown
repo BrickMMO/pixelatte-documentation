@@ -2,7 +2,7 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-Pixelatte is an application that converts a provided image to a set of instructions to recreate the image using LEGO^TM^ bricks.
+Pixelatte is an application that converts a provided image to a set of instructions to recreate the image using LEGO<sup>TM</sup> bricks.
 
 ![BrickMMO](images/pixelatte-landing.jpg)
 
