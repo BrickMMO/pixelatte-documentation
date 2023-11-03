@@ -3,7 +3,11 @@
 ## Pitch: Pixelate: Phase #1
 
 Date: Feb 27<sup>th</sup>, 2023
+
+
 Domain: https://pixelate.brickmmo.com 
+
+
 GitHub: https://github.com/BrickMMO/pixelatte-about
 
 ## Application Purpose
