@@ -1,15 +1,18 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Pitch: Project Name: Version #1
+## Pitch: Pixelate: Phase #1
 
-Date: <MONTH> <DAY>, <YEAR>
-Domain: <DOMAIN_NAME>  
-GitHub: https://github.com/codeadamca/<REPO_NAME>
+Date: Feb 27<sup>th</sup>, 2023
+
+
+Domain: https://pixelate.brickmmo.com 
+
+
+GitHub: https://github.com/BrickMMO/pixelatte-about
 
 ## Application Purpose
 
-This application will convert a provided image to a set of instructions to recreate the image using LEGO™ bricks.
-
+This application will convert a provided image to a set of instructions to recreate the image using LEGOTM bricks.
 The end result will be instructions to create something similar to the [LEGO™ World Map](https://www.lego.com/en-us/product/world-map-31203):
 
 ![Sample Map](../images/v1-map.png)
