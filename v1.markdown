@@ -15,8 +15,8 @@ This is a brief description of what was completed during version one.
 
 ### Documents
 
-- [Pitch (Markdown)](v1/system-v1-pitch)
-- [Pitch (PDF)](v1/system-v1-pitch.pdf)
+- [Pitch (Markdown)](v1/pixelatte-v1-pitch.markdown)
+- [Pitch (PDF)](v1/pixelate-v1-pitch.pdf)
 - [Requirements Document (Markdown)](v1/system-v1-requirements)
 - [Requirements Document (PDF)](v1/system-v1-requirements.pdf)
 
